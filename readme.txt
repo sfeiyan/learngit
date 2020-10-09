@@ -1,2 +1,3 @@
-is free software 
-is a version control system.
+is a distributed version control system.
+is free software distributed under the GPL.
+
