@@ -34,6 +34,8 @@ public class UserInfoController {
         return "user/userInfoAdd";
     }
 
+
+	add  func3
     /**
      * 用户删除;
      * @return
