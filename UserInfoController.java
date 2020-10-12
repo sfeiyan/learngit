@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @create: 2020-09-11 16:51
  **/
 add  func1
+ 
 @Controller
 @RequestMapping("/userInfo")
 public class UserInfoController {
